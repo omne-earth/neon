@@ -1,2 +1,5 @@
 requests
 jupyter
+ipython
+bash_kernel
+standard-imghdr
