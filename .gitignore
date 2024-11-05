@@ -1,0 +1,4 @@
+.venv
+requests/*
+!requests/example
+results/*
