@@ -3,3 +3,4 @@ jupyter
 ipython
 bash_kernel
 standard-imghdr
+spiceypy
